@@ -1,1 +1,1 @@
-This is Hugo's first Git project
+This is Hugo's first Git Project
